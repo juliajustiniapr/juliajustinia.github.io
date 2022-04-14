@@ -4,12 +4,12 @@ body {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 24px;
   border: 2px;
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
   color: DarkBlue;
   background-color: #ADFF2F;
 }
