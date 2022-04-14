@@ -23,11 +23,11 @@ ul {
 }
 
 div.first {
-  background-color: Yellow;
+  background-color: #FFF0F5;
 }
 
 a.upperleftcorner {
-  background-color: Green;
+  background-color: LightBlue;
   border-radius: 2px;
   left: 0;
   top: 0;
@@ -41,13 +41,13 @@ a.upperleftcorner {
 }
 
 header {
-  background-color: Red;   
+  background-color: #00FFFF;   
 }
 
 footer {
-  background-color: Green;   
+  background-color: #7FFF00;   
 }
 
 aside {
-  background-color: Yellow;   
+  background-color: #FFD700;   
 }
