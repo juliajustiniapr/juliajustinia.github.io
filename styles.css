@@ -1,6 +1,6 @@
 body {
-   background-color: Ivory;
-   color: Gray;
+   background-color: #FFFFE0;
+   color: #FFE4B5;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 p {
   font-size: 16px;
   color: DarkBlue;
-  background-color: Lavender;
+  background-color: #ADFF2F;
 }
 
 ol {
