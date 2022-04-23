@@ -4,9 +4,30 @@ body {
     padding: 5px;
 }
 
+#title {
+    color: #4682B4;
+    font-family: Georgia;
+    margin-bottom: 0px;
+    width: 250px;
+    font-size: 25px;
+    text-align: center;
+}
+
 p {
     font-size: 12px;
     display: inline-block;
+}
+
+h2 {
+    color: #4682B4;
+    font-family: Georgia;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: 13px;
 }
 
 div {
@@ -37,17 +58,7 @@ div {
     height: 300px;
 }
 
-
-#title {
-    color: #4682B4;
-    font-family: Georgia;
-    margin-bottom: 0px;
-    width: 250px;
-    font-size: 25px;
-    text-align: center;
-}
-
-#hobbies {
+.hobbies {
     width: 325px;
     height: 30px;
     border-radius: 15px;
@@ -136,18 +147,6 @@ nav ul a {
 section ul {
     font-size: 13px;
     list-style: lower-latin;
-}
-
-h2 {
-    color: #4682B4;
-    font-family: Georgia;
-    font-size: 16px;
-    text-align: center;
-}
-
-h3 {
-    font-family: Georgia;
-    font-size: 13px;
 }
 
 aside {  
